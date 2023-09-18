@@ -330,6 +330,7 @@ nav .fa-camera {
     justify-content: space-evenly;
     width: 500px;
     padding: 0 15px;
+    z-index: 9;
 }
 .follow > .insta > div{
     height: 50px;
